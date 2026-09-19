@@ -1,5 +1,5 @@
 # Ex. No. : 1 
-To create a HelloWorld Activity using all lifecycles methods to display messages.
+### To create a HelloWorld Activity using all lifecycles methods to display messages.
 
 ## AIM :
 
@@ -7,7 +7,7 @@ To create a HelloWorld Activity using all lifecycles methods to display messages
 
 ## EQUIPMENTS REQUIRED :
 
-Latest Version Android Studio
+Android Studio (latest version)
 
 ## ALGORITHM :
 
@@ -127,13 +127,6 @@ ACTIVITY_MAIN.XML
 ## OUTPUT :
 
 <img width="960" height="540" alt="Screenshot 2026-07-25 081634" src="https://github.com/user-attachments/assets/f7fd2c1e-f994-4583-9468-756045d5e84d" />
-
-<img width="960" height="540" alt="Screenshot 2026-07-25 081650" src="https://github.com/user-attachments/assets/51056a41-219a-4c90-9570-27bad635fd49" />
-
-<img width="960" height="540" alt="Screenshot 2026-07-25 081839" src="https://github.com/user-attachments/assets/5d26123d-7c43-449e-8224-c676c4c67a8c" />
-
-<img width="960" height="540" alt="Screenshot 2026-07-25 081928" src="https://github.com/user-attachments/assets/0e1c78c2-f4c1-43dd-aa3b-1f146bc02084" />
-
 
 ## RESULT :
 Thus,A simple android application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
